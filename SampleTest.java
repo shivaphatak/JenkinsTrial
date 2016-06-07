@@ -1,5 +1,5 @@
 public static void main(String args[])
 {
-	int a=50;
+	int a=80;
 	system.out.println("Number is":a);
 }
